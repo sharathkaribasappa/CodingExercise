@@ -1,0 +1,8 @@
+<resources>
+    <string name="google_maps_key">AIzaSyBLcAPF-TkhWWUc_MmTpNgyyY8iN-vT1nI</string>
+    <string name="app_name">CodingExcerise</string>
+    <string name="title_activity_maps">Find Us</string>
+    <string name="pending">Pending:</string>
+    <string name="availableFunds">Available funds</string>
+    <string name="accountBalance">Account balance</string>
+</resources>
